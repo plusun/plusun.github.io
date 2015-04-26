@@ -1,0 +1,34 @@
+##The website title
+name: CSE 2015
+##Markdown processor
+markdown: RDiscount
+##syntax highlighter. change it to pygments
+highlighter: pygments
+
+##define base_url for valid usage in sitemap.xml and robots.txt
+#base_url: 
+sass:
+  sass_dir: _sass
+  style: :compressed
+paginate: 7
+paginate_path: "page:num"
+##The website description (to be used in meta tags)
+description: Computer System Engineering
+##Some frequently used keywords on your website
+# keywords: some, relevant, keywords, for, usage, in metatags
+
+##define this for disqus comment support
+#disqus: forumname
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: analyticsDomain
+
+##Some commonly used links
+#links:
+#  email: username@gmail.com
+
+##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
+#about_image: placeholder.jpg
+##comment this if you want full width posts with no sidebar
+# sidebar: off
