@@ -12,7 +12,7 @@ title: Schedule
 |Week 5|Lec-9: Lock<br/>[Lab-3: RPC]({% post_url 2015-03-25-lab3 %}) <br/> [HW-3: Valgrind]({% post_url 2015-03-31-handson3 %})|Lec-10: Thread|
 |Week 6|Lec-11: OS Structure|Lec-12: Performance <br/> [Rec-3: Eraser]({% post_url 2015-03-28-rec3 %}) <br/> [HW-4: MapReduce]({% post_url 2015-04-09-handson4 %})|
 |Week 7|Lec-13: Performance-2|Lec-14: Network Intro|
-|Week 8|[Midterm Exam]({% post_url 2015-04-16-midexam %})|Midterm Exam Analysis <br/> [Rec-4: MapReduce]({% post_url 2015-04-12-rec4 %})|
+|Week 8|[Midterm Exam]({% post_url 2015-04-20-midexampos %})|Midterm Exam Analysis <br/> [Rec-4: MapReduce]({% post_url 2015-04-12-rec4 %})|
 |Week 9|Lec-15: Network Layer <br/> [HW-5: Traceroute]({% post_url 2015-04-19-handson5 %}) <br/> [Lab-4: Lock]({% post_url 2015-04-11-lab4 %})|International Labor Day|
 |Week 10|Lec-16: End-to-end Layer <br/> HW-6: TCP|Lec-17: Congestion Control <br/> [Rec-5: End-to-end]({% post_url 2015-04-26-rec5 %})|
 |Week 11|Lec-18: Fault-tolerance & Logging <br/> Lab-5: Log|Lec-19: Crash Consistency|
